@@ -1,6 +1,6 @@
 Système de facturation numérique développé en PHP. Ce système permet de générer des factures pour des transactions commerciales entre une entreprise et ses clients.
 
-Il comprend des fonctionnalités telles que la saisie des détails du fournisseur et du client, l'ajout des articles avec leurs quantités et prix, le calcul automatique du total
+Il comprend des fonctionnalités telles que la saisie des détails du fournisseur et du client, l'ajout des articles avec leurs quantités et prix, le calcul automatique du total 
 
 avant taxe, du montant de la taxe, du total TTC, du montant net à payer et du total à payer.
 
