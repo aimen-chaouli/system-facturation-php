@@ -6,7 +6,7 @@ avant taxe, du montant de la taxe, du total TTC, du montant net à payer et du t
 
 Il inclut également une fonctionnalité d'enregistrement des factures dans une base de données, ce qui permet de stocker les détails des transactions pour référence future.
 
-Le projet implique une interface utilisateur conviviale où les utilisateurs peuvent saisir les informations nécessaires pour générer une facture, avec des fonctionnalités de
+Le projet implique une interface utilisateur conviviale où les utilisateurs peuvent saisir les informations nécessaires pour générer une facture, avec des fonctionnalités de 
 
 validation des données pour assurer l'exactitude des informations saisies.
 
